@@ -1,0 +1,32 @@
+h1 {
+	font-size: 36px;
+	color: blue;
+	text-align: center;
+	font-style: oblique;
+}
+
+p {
+	font-size: 24px;
+	color: green;
+	font-family: cursive;
+}
+
+b {
+	font-size: 24px;
+	color: darkgreen;
+}
+
+.p_formatted {
+	font-size: 24px;
+	color: saddlebrown;
+	font-family: cursive;
+} 
+
+#h_index {
+	font-size: 48px;
+	color: red;
+}
+
+ul > li {
+	font-size: 24px;
+}
